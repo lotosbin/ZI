@@ -2,6 +2,10 @@
 ZI Library for wonderful Android development
 -------------
 
+[![](https://jitpack.io/v/lotosbin/ZI.svg)](https://jitpack.io/#lotosbin/ZI)
+
+[How to use](https://jitpack.io/#lotosbin/ZI/Tag)
+
 1) Components
 -------------
 
